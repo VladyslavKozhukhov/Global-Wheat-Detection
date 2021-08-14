@@ -10,3 +10,8 @@ Methods and Algorithms:
 * Ensemble Learning 
 * Augmentation
 * Pseudo Labels
+* Non-maximum Suppression
+
+Results:
+![image](https://user-images.githubusercontent.com/20040462/129441989-e058c32a-f74b-49e6-8ebd-9c2535cb04ec.png)
+![image](https://user-images.githubusercontent.com/20040462/129442001-8c3d6be6-fc88-4a11-857f-9e744cff326d.png)
